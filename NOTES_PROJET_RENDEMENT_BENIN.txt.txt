@@ -1,0 +1,155 @@
+==================================================
+PROJET : PRÉDICTION DU RENDEMENT AGRICOLE AU BÉNIN
+==================================================
+
+DATE DE DÉBUT : 06/09/2026
+
+--------------------------------------------------
+1. OBJECTIF DU PROJET
+--------------------------------------------------
+
+
+L'objectif principal du projet est de développer un système
+basé sur le Machine Learning capable de prédire le rendement
+agricole de différentes cultures dans les régions du Bénin.
+
+La prédiction sera réalisée à partir de différentes données
+agricoles, météorologiques, géographiques et éventuellement
+pédologiques qui seront identifiées au cours du projet.
+
+L'utilisateur de l'application ne devra pas renseigner
+directement les données techniques telles que la pluviométrie
+ou la température. Le système devra exploiter ces informations
+à partir des données disponibles.
+
+Le projet consistera donc à collecter, extraire, nettoyer,
+transformer et fusionner différentes sources de données afin
+de constituer un dataset adapté à l'entraînement d'un modèle
+de Machine Learning.
+
+L'objectif final est de développer une application capable
+de fournir une estimation du rendement agricole à partir
+des informations pertinentes disponibles pour une culture
+et une région données.
+
+
+
+
+--------------------------------------------------
+2. PROBLÉMATIQUE
+--------------------------------------------------
+
+L'agriculture occupe une place importante dans l'économie et
+dans la vie des populations au Bénin. Cependant, le rendement
+des cultures peut varier considérablement selon les régions,
+les années, les conditions météorologiques, les caractéristiques
+des sols et les pratiques agricoles.
+
+La capacité à estimer à l'avance le rendement d'une culture
+peut être utile pour améliorer la planification agricole et
+la prise de décision.
+
+Le principal problème rencontré dans ce projet concerne la
+disponibilité et la qualité des données. Les informations
+nécessaires à la prédiction du rendement sont souvent
+dispersées entre plusieurs sources et disponibles sous
+différents formats, notamment des fichiers CSV, Excel, PDF
+et des tableaux présents dans des rapports.
+
+Ces données peuvent également contenir des valeurs manquantes,
+des unités différentes, des noms de régions non uniformes,
+des doublons ou d'autres incohérences.
+
+La problématique du projet est donc de déterminer quelles
+variables sont réellement nécessaires à la prédiction du
+rendement agricole, d'identifier les sources de données
+fiables disponibles au Bénin, puis de transformer ces données
+hétérogènes en un dataset propre et exploitable par un modèle
+de Machine Learning.
+
+--------------------------------------------------
+3. VARIABLES NÉCESSAIRES
+--------------------------------------------------
+
+
+annee
+departement
+culture
+superficie_cultivee_ha
+precipitations_mm
+temperature_moyenne_c
+temperature_max_c
+temperature_min_c
+rendement_t_ha
+--------------------------------------------------
+4. VARIABLE À PRÉDIRE
+--------------------------------------------------
+
+rendement 
+
+--------------------------------------------------
+5. DONNÉES À RECHERCHER
+--------------------------------------------------
+
+À compléter...
+
+--------------------------------------------------
+6. SOURCES DES DONNÉES
+--------------------------------------------------
+
+À compléter...
+
+--------------------------------------------------
+7. NETTOYAGE DES DONNÉES
+--------------------------------------------------
+
+À compléter...
+
+--------------------------------------------------
+8. DATASET FINAL
+--------------------------------------------------
+
+Nombre de lignes : À déterminer
+Nombre de colonnes : À déterminer
+
+--------------------------------------------------
+9. MODÈLES DE MACHINE LEARNING
+--------------------------------------------------
+
+À déterminer...
+
+--------------------------------------------------
+10. APPLICATION
+--------------------------------------------------
+
+À déterminer...
+
+--------------------------------------------------
+11. DÉCISIONS IMPORTANTES
+--------------------------------------------------
+
+[06/09/2026]
+- ...
+
+--------------------------------------------------
+12. PROBLÈMES / DIFFICULTÉS
+--------------------------------------------------
+
+- ...
+
+--------------------------------------------------
+13. ÉTAPES À FAIRE
+--------------------------------------------------
+
+[ ] Définir les variables
+[ ] Identifier les sources de données
+[ ] Collecter les données
+[ ] Nettoyer les données
+[ ] Fusionner les données
+[ ] Construire le dataset final
+[ ] Analyser les données
+[ ] Entraîner les modèles
+[ ] Évaluer les modèles
+[ ] Développer l'application
+[ ] Tester l'application
+[ ] Rédiger le rapport
